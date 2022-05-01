@@ -1,6 +1,6 @@
 import Image from "next/image";
 import React from "react";
-import HeroImg from '../images/venetian-1.jpeg';
+import HeroImg from '../images/Venetian-1.jpeg'
 function HeroImage({ hotel }) {
   return (
     <figure className="relative w-[100%] lg:h-[212px] sm:h-[375px] md:h-[450px] h-[250px] ">
